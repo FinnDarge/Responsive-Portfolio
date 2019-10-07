@@ -1,0 +1,20 @@
+body {
+    background-color: #B0C1C9;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#profile {
+    border: 5px solid white;
+    border-radius: 5px;
+}
+
+a:hover {
+    opacity: 0.5;
+}
+
+#instagram:hover {
+    filter: grayscale(100%);
+}
